@@ -16,9 +16,9 @@ DATA ANALYSIS AND VISUALIZATION OF THE WORLD WARS.
 
 * Any Linux Distribution( Debian/ Ubuntu/ RedHats) / Microsoft Windows 10/8/7/Vista/2003/XP must  be installed
  
-* All the required Modules must be installed using PIP.
+* All the required Modules can be installed using PIP.
  
-* 4 GB RAM recommended.
+* 2 GB RAM recommended.
 
 
 **DATA VISUALIZATION:**
